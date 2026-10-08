@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Production build output
+dist/
+dist-ssr/
+*.local
+
+# Database (SQLite)
+database.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+antigravity chats/
+
+animations.txt
+documentation.txt
+express_prac.js
+thinking.txt
+todo.txt
